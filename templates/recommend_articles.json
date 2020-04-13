@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "id": "0_1548512325.999",
+      "target": {
+        "id": 516686738,
+        "type": "answer",
+        "url": "https://api.zhihu.com/answers/516686738",
+        "author": {
+          "id": "83c2b0adf470cea4a59a09f39a42a29d",
+          "type": "people",
+          "url": "https://api.zhihu.com/people/83c2b0adf470cea4a59a09f39a42a29d",
+          "user_type": "people",
+          "url_token": "tian-qing-yu-51",
+          "name": "量子物理学",
+          "headline": "",
+          "avatar_url": "https://pic1.zhimg.com/50/v2-c6cf37483d280534a80b66997f4dc2b9_m.jpg",
+          "is_org": false,
+          "gender": 1,
+          "badge": [],
+          "followers_count": 0,
+          "is_following": false,
+          "is_followed": false
+        },
+        "created_time": 1540280510,
+        "updated_time": 1540444315,
+        "voteup_count": 434,
+        "thanks_count": 123,
+        "comment_count": 96,
+        "is_copyable": false,
+        "question": {
+          "id": 289923860,
+          "type": "question",
+          "url": "https://api.zhihu.com/questions/289923860",
+          "author": {
+            "id": "8314afe6da1b3623d0e9fbd183bc107e",
+            "type": "people",
+            "url": "https://api.zhihu.com/people/8314afe6da1b3623d0e9fbd183bc107e",
+            "user_type": "people",
+            "url_token": "yem-59",
+            "name": "eschere",
+            "headline": "前端/懂点化学",
+            "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_m.jpg",
+            "is_org": false,
+            "gender": 0,
+            "badge": [],
+            "followers_count": 0,
+            "is_following": false,
+            "is_followed": false
+          },
+          "title": "如何用通俗易懂的话来描述量子物理学？",
+          "follower_count": 586,
+          "comment_count": 4,
+          "bound_topic_ids": [
+            225,
+            7912,
+            66416,
+            159435,
+            199980
+          ],
+          "is_following": false,
+          "excerpt": "会vue,webpack,sass,cordovar,移动端，现在在一线城市的平均水平是多少。本人苦于没有工作经验，自认为技术实力还行，公司开的工资普通在试用期6k左右。有经验的大佬分享一下现在前端的要求，热门的发展方向，谢谢！"
+        },
+        "thumbnail": "",
+        "excerpt": "我此前写过几个有关量子力学的回答，我始终强调先应该去接受量子力学的基本假设。我觉得理解量子力学，当然可以去读一些书，理解某几个基本实验（双缝干涉，纠缠态），但是也可...",
+        "excerpt_new": "我此前写过几个有关量子力学的回答，我始终强调先应该去接受量子力学的基本假设。我觉得理解量子力学，当然可以去读一些书，理解某几个基本实验（双缝干涉，纠缠态），但是也可以直接从基本假设出发来理解，因为这也并不比理解牛顿定律更困难，反正大多数时候大妈也不懂牛顿定律。从基本假设的角度出发（以下所写不能严格满足与基本假设的一一对应关系），不用任何数学，我单独写个答案：经典世界中的萨特曾经说过：「如果我不在家，我就在咖啡馆；如果我不在咖啡馆，我就在去咖啡馆的路上。」假如有一个基本粒子，也叫萨特，萨特只能处在两个状态，一个状态是位于 A 点（家里），另一个状态是位于 B 点（咖啡馆）。经典的萨特从家里取到咖啡馆必须经过「去咖啡馆的路」，并且，在某个时刻，有可能在家里和咖啡馆都无法找到萨特。但是量子萨特就不一样了，跟经典萨特最大的不同就在于，量子萨特完全可以说自己「如果我不在家，我就在咖啡馆。」量子萨特可以处在家里，或者处于咖啡馆，并且它甚至可以以一定的概率既处在家里，又以一定概率处在咖啡馆，但是就是不可能处在去咖啡馆的路上（ A 和 B 位置之间的状态）。在量子力学的世界里，我们虽然可以按照不同的概率对态进行叠加，进而可以产生出无数新的状态，但是说到底，这些状态都是由那些基本的状态叠加起来的。测量会改变系统的状态，例如把「测量」看成是「采访」，虽然我们不知道量子萨特在某个时刻究竟在哪，但是你要是去测量（采访）他，量子萨特只会在家里或者咖啡馆里接受你的采访。不过如果你一直老在测量这位量子萨特，把这些测量结果统计在一起，求这位量子萨特的「平均位置」，这时候你会发现，平均的来看，他似乎总是在「去咖啡馆的路上」，经典世界跟量子世界于是联系了起来。萨特还说过一句名言，「他人即是地狱」。因此我们还可以考虑用「地狱」作为另外一个可观测量来描述量子萨特，但是在用这个物理量之前，我们得考虑一个问题：「地狱」跟「咖啡馆」是不是一码事。考虑到真实情况可能会很复杂，萨特在家中，如果有人拜访，他也有一定的概率处在「地狱」，在咖啡馆里，如果他一个人静静坐着，也有一定的概率处在暂时没有「他人」的状态——这时候，情况就变得有意思起来了。甲先测量了处在量子萨特处在咖啡馆的概率，这次测量已经改变了量子萨特的状态，然后接下来再来测量他是不是处在「地狱」；而乙先考虑测量量子萨特是不是处在地狱，在测量改变了量子萨特的状态后，再来测量他是不是在家。因为测量会改变系统的状态，那么按照不同的顺序来进行测量的话，这两次得到的结果有可能会是不一样的。正由于这种差异存在，所以我们无法同时确定粒子的速度（动量）和位置，也就有了量子世界的「测不准」。",
+        "preview_type": "default",
+        "preview_text": ""
+      },
+      "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 516686738}",
+      "uninterest_reasons": [
+        {
+          "reason_id": 3,
+          "reason_type": "topic",
+          "object_token": "19550901",
+          "object_type": "topic",
+          "reason_text": "前端开发"
+        },
+        {
+          "reason_id": 3,
+          "reason_type": "topic",
+          "object_token": "19749040",
+          "object_type": "topic",
+          "reason_text": "前端招聘"
+        },
+        {
+          "reason_id": 3,
+          "reason_type": "topic",
+          "object_token": "20022242",
+          "object_type": "topic",
+          "reason_text": "Vue.js"
+        },
+        {
+          "reason_id": 3,
+          "reason_type": "topic",
+          "object_token": "20141158",
+          "object_type": "topic",
+          "reason_text": "前端薪资"
+        },
+        {
+          "reason_id": 2,
+          "reason_type": "creator",
+          "object_token": "83c2b0adf470cea4a59a09f39a42a29d",
+          "object_type": "people",
+          "reason_text": "笔芯设计匠创作的内容"
+        }
+      ],
+      "attached_info": "Cm8IyuuCkar41KBUEAQaCTEyNDAxMzcxMiC+obveBSiyAzBgQABKCgoBSBIBMBgAIABSDmhvdF9hZGRfYW5zd2VyWggyNjcwNDMyNHIJNTE2Njg2NzM4eAGKAQkyODk5MjM4NjCqAQlyZWNvbW1lbmQ=",
+      "actors": [
+        {
+          "id": "19550901",
+          "type": "topic",
+          "url": "https://api.zhihu.com/topics/19550901",
+          "avatar_url": "https://pic1.zhimg.com/50/v2-8e66233f5558e741bad3a8c50b9566c8_s.jpg",
+          "name": "前端开发",
+          "excerpt": "",
+          "introduction": "",
+          "meta": {
+            "id": 1023611024229822500,
+            "category": "n_wiki",
+            "type": "metapedia"
+          }
+        }
+      ],
+      "show_actor_time": false,
+      "action_text": "前端开发",
+      "action_text_tpl": "{}",
+      "action_card": false
+    },
+  ],
+
+
+
+}
